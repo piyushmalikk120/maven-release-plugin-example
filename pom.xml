@@ -5,7 +5,7 @@
 	<version>0.3-SNAPSHOT</version>
 	<scm>
 		<url>https://github.com/piyushmalikk120/maven-release-plugin-example</url>
-		<connection>scm:git:https://github.com/piyushmalikk120/maven-release-plugin-example.git.git</connection>
+		<connection>scm:git:https://github.com/piyushmalikk120/maven-release-plugin-example.git</connection>
       <tag>HEAD</tag>
   </scm>
 	
